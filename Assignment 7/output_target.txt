@@ -1,0 +1,15 @@
+MOV R1, b
+ADD R1, 2
+MOV a, R1
+MOV b, 48
+MOV R2, a
+MUL R2, 14
+MOV c, R2
+MOV R3, a
+MOV R4, b
+MOV R5, c
+MUL R4, R5
+ADD R3, R4
+MOV R6, d
+SUB R3, R6
+MOV d, R3

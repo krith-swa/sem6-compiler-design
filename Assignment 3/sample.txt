@@ -1,0 +1,11 @@
+//This code prints the sum
+import Scanner;
+public class FindSum { 
+    public static void main (String args[]) { 
+        int num1 = 10, num2 = 20, sum;
+        sum = num1 + num2;
+        int num3 = 30;
+        sum = sum * num3;
+        System.out.println("The sum of numbers is: " + sum); 
+        }
+    }

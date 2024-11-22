@@ -1,0 +1,9 @@
+temp1 = b + 2
+a = temp1
+b = 48
+temp2 = a * 14
+c = temp2
+temp3 = b * c
+temp4 = a + temp3
+temp5 = temp4 - d
+d = temp5

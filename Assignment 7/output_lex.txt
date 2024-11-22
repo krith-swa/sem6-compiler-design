@@ -1,0 +1,35 @@
+                       int | type int                  
+                         a | identifier                
+                         = | equal-to op               
+                         b | identifier                
+                         + | plus op                   
+                         2 | numeric constant          
+                         , | sp char - comma           
+                         b | identifier                
+                         = | equal-to op               
+                         6 | numeric constant          
+                         * | mul op                    
+                         8 | numeric constant          
+                         ; | sp char - semi-colon      
+                         c | identifier                
+                         = | equal-to op               
+                         a | identifier                
+                         * | mul op                    
+                         3 | numeric constant          
+                         * | mul op                    
+                         4 | numeric constant          
+                         + | plus op                   
+                         2 | numeric constant          
+                         ; | sp char - semi-colon      
+                         d | identifier                
+                         = | equal-to op               
+                         a | identifier                
+                         + | plus op                   
+                         b | identifier                
+                         * | mul op                    
+                         c | identifier                
+                         - | minus op                  
+                         d | identifier                
+                         + | plus op                   
+                         0 | numeric constant          
+                         ; | sp char - semi-colon      

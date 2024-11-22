@@ -1,0 +1,13 @@
+while (i < 10) 
+{
+     a = 0;
+     i = i +1;
+} 
+switch (i+j) 
+{ 
+    case 1: x = y+z;
+            break;
+    case 2: u = v + w;
+            break;
+    default : p=q+r;
+} 
